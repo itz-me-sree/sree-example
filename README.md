@@ -1,2 +1,0 @@
-# sree-example
-example
